@@ -1,0 +1,752 @@
+{
+  "step_0": {
+    "epoch": 0,
+    "batch": 0,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.7
+    }
+  },
+  "step_1": {
+    "epoch": 0,
+    "batch": 1,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.85
+    }
+  },
+  "step_2": {
+    "epoch": 0,
+    "batch": 2,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.65,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_3": {
+    "epoch": 0,
+    "batch": 3,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.4,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.75
+    }
+  },
+  "step_4": {
+    "epoch": 0,
+    "batch": 4,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.6,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.05
+    }
+  },
+  "step_5": {
+    "epoch": 0,
+    "batch": 5,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.5
+    }
+  },
+  "step_6": {
+    "epoch": 0,
+    "batch": 6,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.8
+    }
+  },
+  "step_7": {
+    "epoch": 0,
+    "batch": 7,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.8
+    }
+  },
+  "step_8": {
+    "epoch": 0,
+    "batch": 8,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 1.0,
+      "Pass@5": 1.0,
+      "avg_tool_call": 1.65
+    }
+  },
+  "step_9": {
+    "epoch": 0,
+    "batch": 9,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.2
+    }
+  },
+  "step_10": {
+    "epoch": 0,
+    "batch": 10,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.9,
+      "Pass@5": 1.0,
+      "avg_tool_call": 1.9
+    }
+  },
+  "step_11": {
+    "epoch": 0,
+    "batch": 11,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.6
+    }
+  },
+  "step_12": {
+    "epoch": 0,
+    "batch": 12,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.1,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.4
+    }
+  },
+  "step_13": {
+    "epoch": 0,
+    "batch": 13,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.4
+    }
+  },
+  "step_14": {
+    "epoch": 0,
+    "batch": 14,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.7,
+      "Pass@5": 1.0,
+      "avg_tool_call": 1.45
+    }
+  },
+  "step_15": {
+    "epoch": 0,
+    "batch": 15,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_16": {
+    "epoch": 0,
+    "batch": 16,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.8
+    }
+  },
+  "step_17": {
+    "epoch": 0,
+    "batch": 17,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.45,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.75
+    }
+  },
+  "step_18": {
+    "epoch": 0,
+    "batch": 18,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.1
+    }
+  },
+  "step_19": {
+    "epoch": 0,
+    "batch": 19,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.65,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.55
+    }
+  },
+  "step_20": {
+    "epoch": 0,
+    "batch": 20,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.35
+    }
+  },
+  "step_21": {
+    "epoch": 0,
+    "batch": 21,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.45,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.75
+    }
+  },
+  "step_22": {
+    "epoch": 0,
+    "batch": 22,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.45
+    }
+  },
+  "step_23": {
+    "epoch": 0,
+    "batch": 23,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.45,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_24": {
+    "epoch": 0,
+    "batch": 24,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.45,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.9
+    }
+  },
+  "step_25": {
+    "epoch": 1,
+    "batch": 0,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.65
+    }
+  },
+  "step_26": {
+    "epoch": 1,
+    "batch": 1,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.1,
+      "Pass@5": 0.25,
+      "avg_tool_call": 1.75
+    }
+  },
+  "step_27": {
+    "epoch": 1,
+    "batch": 2,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.3
+    }
+  },
+  "step_28": {
+    "epoch": 1,
+    "batch": 3,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.5,
+      "avg_tool_call": 3.2
+    }
+  },
+  "step_29": {
+    "epoch": 1,
+    "batch": 4,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.25
+    }
+  },
+  "step_30": {
+    "epoch": 1,
+    "batch": 5,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.7,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_31": {
+    "epoch": 1,
+    "batch": 6,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.736842105263158
+    }
+  },
+  "step_32": {
+    "epoch": 1,
+    "batch": 7,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.6,
+      "Pass@5": 1.0,
+      "avg_tool_call": 1.2
+    }
+  },
+  "step_33": {
+    "epoch": 1,
+    "batch": 8,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_34": {
+    "epoch": 1,
+    "batch": 9,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.75,
+      "avg_tool_call": 3.05
+    }
+  },
+  "step_35": {
+    "epoch": 1,
+    "batch": 10,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.3
+    }
+  },
+  "step_36": {
+    "epoch": 1,
+    "batch": 11,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.65,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.25
+    }
+  },
+  "step_37": {
+    "epoch": 1,
+    "batch": 12,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.6,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.9
+    }
+  },
+  "step_38": {
+    "epoch": 1,
+    "batch": 13,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.4,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.95
+    }
+  },
+  "step_39": {
+    "epoch": 1,
+    "batch": 14,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_40": {
+    "epoch": 1,
+    "batch": 15,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.7
+    }
+  },
+  "step_41": {
+    "epoch": 1,
+    "batch": 16,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.1818181818181817
+    }
+  },
+  "step_42": {
+    "epoch": 1,
+    "batch": 17,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.05
+    }
+  },
+  "step_43": {
+    "epoch": 1,
+    "batch": 18,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 3.4
+    }
+  },
+  "step_44": {
+    "epoch": 1,
+    "batch": 19,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.2,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.1666666666666665
+    }
+  },
+  "step_45": {
+    "epoch": 1,
+    "batch": 20,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.533333333333333
+    }
+  },
+  "step_46": {
+    "epoch": 1,
+    "batch": 21,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.4,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.263157894736842
+    }
+  },
+  "step_47": {
+    "epoch": 1,
+    "batch": 22,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.7
+    }
+  },
+  "step_48": {
+    "epoch": 1,
+    "batch": 23,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.35
+    }
+  },
+  "step_49": {
+    "epoch": 1,
+    "batch": 24,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.6,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.789473684210526
+    }
+  },
+  "step_50": {
+    "epoch": 2,
+    "batch": 0,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.75,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.1
+    }
+  },
+  "step_51": {
+    "epoch": 2,
+    "batch": 1,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.45,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.8
+    }
+  },
+  "step_52": {
+    "epoch": 2,
+    "batch": 2,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.7,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.15
+    }
+  },
+  "step_53": {
+    "epoch": 2,
+    "batch": 3,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.4,
+      "Pass@5": 0.75,
+      "avg_tool_call": 2.7
+    }
+  },
+  "step_54": {
+    "epoch": 2,
+    "batch": 4,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.2,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.7
+    }
+  },
+  "step_55": {
+    "epoch": 2,
+    "batch": 5,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.8,
+      "Pass@5": 1.0,
+      "avg_tool_call": 2.85
+    }
+  },
+  "step_56": {
+    "epoch": 2,
+    "batch": 6,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 3.05
+    }
+  },
+  "step_57": {
+    "epoch": 2,
+    "batch": 7,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_58": {
+    "epoch": 2,
+    "batch": 8,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.5,
+      "Pass@5": 0.5,
+      "avg_tool_call": 1.5
+    }
+  },
+  "step_59": {
+    "epoch": 2,
+    "batch": 9,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.75
+    }
+  },
+  "step_60": {
+    "epoch": 2,
+    "batch": 10,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.45
+    }
+  },
+  "step_61": {
+    "epoch": 2,
+    "batch": 11,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.15,
+      "Pass@5": 0.5,
+      "avg_tool_call": 4.6
+    }
+  },
+  "step_62": {
+    "epoch": 2,
+    "batch": 12,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.5
+    }
+  },
+  "step_63": {
+    "epoch": 2,
+    "batch": 13,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 3.6
+    }
+  },
+  "step_64": {
+    "epoch": 2,
+    "batch": 14,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.45
+    }
+  },
+  "step_65": {
+    "epoch": 2,
+    "batch": 15,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.6,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.95
+    }
+  },
+  "step_66": {
+    "epoch": 2,
+    "batch": 16,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.35,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.2
+    }
+  },
+  "step_67": {
+    "epoch": 2,
+    "batch": 17,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.8,
+      "Pass@5": 1.0,
+      "avg_tool_call": 1.4
+    }
+  },
+  "step_68": {
+    "epoch": 2,
+    "batch": 18,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.45
+    }
+  },
+  "step_69": {
+    "epoch": 2,
+    "batch": 19,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.25,
+      "Pass@5": 0.25,
+      "avg_tool_call": 2.9
+    }
+  },
+  "step_70": {
+    "epoch": 2,
+    "batch": 20,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.3,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.0
+    }
+  },
+  "step_71": {
+    "epoch": 2,
+    "batch": 21,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.4,
+      "Pass@5": 0.5,
+      "avg_tool_call": 2.15
+    }
+  },
+  "step_72": {
+    "epoch": 2,
+    "batch": 22,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 1.8
+    }
+  },
+  "step_73": {
+    "epoch": 2,
+    "batch": 23,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 3.15
+    }
+  },
+  "step_74": {
+    "epoch": 2,
+    "batch": 24,
+    "complete": true,
+    "rollout": {
+      "avg_reward": 0.55,
+      "Pass@5": 0.75,
+      "avg_tool_call": 4.3
+    }
+  }
+}

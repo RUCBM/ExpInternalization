@@ -1,0 +1,20 @@
+# env / secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# runtime artifacts
+logs/
+.cache/
+run_workdir/
+test.db
+*.db
+
+# produced experiment runs (keep data/examples/ and data/train/)
+data/web/
+data/math/train/
+data/math/dataset/

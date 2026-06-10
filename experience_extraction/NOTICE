@@ -1,0 +1,28 @@
+ExpInternalization — Experience Extraction
+Copyright (c) 2026 The ExpInternalization Authors
+
+This project is released under the MIT License (see LICENSE).
+
+-------------------------------------------------------------------------------
+Third-party components
+-------------------------------------------------------------------------------
+
+This repository vendors code from youtu-agent (the `training_free_GRPO` branch):
+
+    https://github.com/TencentCloudADP/youtu-agent
+    Copyright (C) 2025 Tencent. Licensed under the MIT License.
+
+The following directories are taken from youtu-agent, largely unmodified, and
+remain under Tencent's MIT License (see LICENSE.youtu-agent):
+
+    utu/        - the agent runtime, tools, and utilities
+    configs/    - agent / tool / model configuration files
+
+Our own contributions (the experience-extraction pipeline) live under:
+
+    training_free_grpo/   - extends youtu-agent's training-free GRPO with the
+                            experience summarization / pool maintenance used in
+                            our paper
+    scripts/
+
+and are licensed under the MIT License (see LICENSE).

@@ -1,0 +1,81 @@
+{
+  "operations": [
+    {
+      "operation": "UPDATE",
+      "id": "G3",
+      "content": "Source adaptation: When primary sources are inaccessible, systematically interrogate pre-identified secondary authoritative sources to maintain verification goals."
+    },
+    {
+      "operation": "UPDATE",
+      "id": "G13",
+      "content": "Pointer investigation: Treat search engine snippets as pointers for deeper verification by directly accessing and interrogating the original source."
+    },
+    {
+      "operation": "ADD",
+      "id": null,
+      "content": "Source hierarchy: Prioritize comprehensive or consolidating sources like indexes or repositories for factual queries within their scope."
+    },
+    {
+      "operation": "UPDATE",
+      "id": "G13",
+      "content": "Pointer investigation: Treat initial search results as pointers for deeper verification by directly accessing linked content, prioritizing immediate interrogation of sources with direct textual matches to the query's core concept."
+    },
+    {
+      "operation": "UPDATE",
+      "id": "G8",
+      "content": "Error interpretation: Treat technical execution errors or uninformative sources as signals to adapt the inquiry method, systematically attempting alternative access paths before investigating less relevant ones."
+    },
+    {
+      "operation": "ADD",
+      "id": null,
+      "content": "Source distinction: Distinguish between sources providing operational contacts and those defining functional responsibilities, cross-verifying functional descriptions from authoritative procedural documents."
+    }
+  ],
+  "response": "```json\n[\n  {\n    \"operation\": \"UPDATE\",\n    \"id\": \"G3\",\n    \"content\": \"Source adaptation: When primary sources are inaccessible or misaligned, systematically pivot to authoritative secondary sources or alternative identifiers to maintain verification goals.\"\n  },\n  {\n    \"operation\": \"UPDATE\",\n    \"id\": \"G8\",\n    \"content\": \"Error interpretation: Treat technical execution errors or uninformative sources as signals to adapt the inquiry method, attempting alternative access paths before investigating less relevant ones.\"\n  },\n  {\n    \"operation\": \"UPDATE\",\n    \"id\": \"G13\",\n    \"content\": \"Pointer investigation: Treat search results as pointers for deeper verification by directly accessing and interrogating original sources, prioritizing those with direct matches to the query's core concept.\"\n  },\n  {\n    \"operation\": \"ADD\",\n    \"id\": null,\n    \"content\": \"Source hierarchy: Prioritize comprehensive sources like indexes or repositories for factual queries within their scope.\"\n  },\n  {\n    \"operation\": \"ADD\",\n    \"id\": null,\n    \"content\": \"Source distinction: Distinguish between sources providing operational contacts and those defining functional responsibilities, cross-verifying from authoritative procedural documents.\"\n  }\n]\n```",
+  "revision_plan": [
+    {
+      "operation": "UPDATE",
+      "id": "G3",
+      "content": "Source adaptation: When primary sources are inaccessible or misaligned, systematically pivot to authoritative secondary sources or alternative identifiers to maintain verification goals."
+    },
+    {
+      "operation": "UPDATE",
+      "id": "G8",
+      "content": "Error interpretation: Treat technical execution errors or uninformative sources as signals to adapt the inquiry method, attempting alternative access paths before investigating less relevant ones."
+    },
+    {
+      "operation": "UPDATE",
+      "id": "G13",
+      "content": "Pointer investigation: Treat search results as pointers for deeper verification by directly accessing and interrogating original sources, prioritizing those with direct matches to the query's core concept."
+    },
+    {
+      "operation": "ADD",
+      "id": null,
+      "content": "Source hierarchy: Prioritize comprehensive sources like indexes or repositories for factual queries within their scope."
+    },
+    {
+      "operation": "ADD",
+      "id": null,
+      "content": "Source distinction: Distinguish between sources providing operational contacts and those defining functional responsibilities, cross-verifying from authoritative procedural documents."
+    }
+  ],
+  "new_experiences": {
+    "G0": "Prioritize named sources over assumptions for verification.",
+    "G1": "Targeted retrieval: Construct queries by combining key entities and contextual descriptors to filter toward authoritative and domain-aligned sources.",
+    "G2": "Treat explicit source references as literal pointers for retrieval.",
+    "G3": "Source adaptation: When primary sources are inaccessible or misaligned, systematically pivot to authoritative secondary sources or alternative identifiers to maintain verification goals.",
+    "G4": "Expand search parameters progressively when initial attempts fail.",
+    "G5": "Absence reporting: Report explicit absence of information rather than inferring reasons unless directly stated by authoritative sources.",
+    "G6": "Entity verification: Confirm extracted information definitively pertains to the exact query subject by distinguishing between source labels and formal names, and refine terminology to match the conceptual scope.",
+    "G7": "Synthesis precision: Use neutral, authoritative language in final answers rather than importing descriptive language from intermediate results.",
+    "G8": "Error interpretation: Treat technical execution errors or uninformative sources as signals to adapt the inquiry method, attempting alternative access paths before investigating less relevant ones.",
+    "G9": "Hierarchy verification: Distinguish between container properties and contents to prevent conceptual conflation.",
+    "G10": "Query mirroring: Frame retrieval queries to mirror the original problem's language and combine key entities with descriptors to filter noise.",
+    "G11": "Source interrogation: Prioritize direct interrogation of named authoritative sources over inferential reasoning or secondary summaries.",
+    "G12": "Tiered verification: Separate broad discovery from targeted extraction, then validate discovered pointers to ensure precise data alignment.",
+    "G13": "Pointer investigation: Treat search results as pointers for deeper verification by directly accessing and interrogating original sources, prioritizing those with direct matches to the query's core concept.",
+    "G14": "Contextual verification: Verify information using authoritative sources from its original linguistic or regional context.",
+    "15": "Source hierarchy: Prioritize comprehensive sources like indexes or repositories for factual queries within their scope.",
+    "16": "Source distinction: Distinguish between sources providing operational contacts and those defining functional responsibilities, cross-verifying from authoritative procedural documents."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "operations": [
+    {
+      "operation": "UPDATE",
+      "id": "G6",
+      "content": "Entity verification: Confirm extracted information definitively pertains to the exact query subject by distinguishing between source labels and formal names, and refine terminology to match the conceptual entity."
+    }
+  ],
+  "response": "```json\n[\n  {\n    \"operation\": \"UPDATE\",\n    \"id\": \"G6\",\n    \"content\": \"Entity verification: Confirm extracted information definitively pertains to the exact query subject by distinguishing between source labels and formal names, and refine terminology to match the conceptual scope.\"\n  }\n]\n```",
+  "revision_plan": [
+    {
+      "operation": "UPDATE",
+      "id": "G6",
+      "content": "Entity verification: Confirm extracted information definitively pertains to the exact query subject by distinguishing between source labels and formal names, and refine terminology to match the conceptual scope."
+    }
+  ],
+  "new_experiences": {
+    "G0": "Prioritize named sources over assumptions for verification.",
+    "G1": "Targeted retrieval: Construct queries by combining key entities and contextual descriptors to filter toward authoritative and domain-aligned sources.",
+    "G2": "Treat explicit source references as literal pointers for retrieval.",
+    "G3": "Source adaptation: When primary sources are inaccessible or misaligned, pivot to authoritative secondary sources or alternative identifiers to maintain verification goals.",
+    "G4": "Expand search parameters progressively when initial attempts fail.",
+    "G5": "Absence reporting: Report explicit absence of information rather than inferring reasons unless directly stated by authoritative sources.",
+    "G6": "Entity verification: Confirm extracted information definitively pertains to the exact query subject by distinguishing between source labels and formal names, and refine terminology to match the conceptual scope.",
+    "G7": "Synthesis precision: Use neutral, authoritative language in final answers rather than importing descriptive language from intermediate results.",
+    "G8": "Error interpretation: Treat technical execution errors as signals to adapt the inquiry method, not as evidence of missing information.",
+    "G9": "Hierarchy verification: Distinguish between container properties and contents to prevent conceptual conflation.",
+    "G10": "Query mirroring: Frame retrieval queries to mirror the original problem's language and combine key entities with descriptors to filter noise.",
+    "G11": "Source interrogation: Prioritize direct interrogation of named authoritative sources over inferential reasoning or secondary summaries.",
+    "G12": "Tiered verification: Separate broad discovery from targeted extraction, then validate discovered pointers to ensure precise data alignment.",
+    "G13": "Pointer investigation: Treat initial search results as pointers for deeper verification by directly accessing linked content.",
+    "G14": "Contextual verification: Verify information using authoritative sources from its original linguistic or regional context."
+  }
+}
