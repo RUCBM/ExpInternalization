@@ -1,0 +1,6 @@
+# Vendored third-party code (youtu-agent) — exclude from GitHub language stats.
+utu/** linguist-vendored
+configs/** linguist-vendored
+
+# Bundled datasets, not source code.
+data/** linguist-documentation
