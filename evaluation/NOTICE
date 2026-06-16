@@ -1,0 +1,30 @@
+ExpInternalization — Web Evaluation
+Copyright (c) 2026 The ExpInternalization Authors
+
+This component is released under the MIT License (see LICENSE).
+
+-------------------------------------------------------------------------------
+Third-party components
+-------------------------------------------------------------------------------
+
+This evaluation code is built on the inference framework of Tongyi DeepResearch:
+
+    https://github.com/Alibaba-NLP/DeepResearch
+    Copyright (c) Alibaba-NLP. Licensed under the Apache License 2.0.
+
+The following files originate from DeepResearch's `inference/` and `evaluation/`
+directories and are modified here (e.g. tool endpoints, URL filtering, and the
+experience-injection variant); they remain under the Apache License 2.0 (see
+LICENSE.deepresearch):
+
+    react_agent.py, run_multi_react.py, run_react_infer.sh, prompt.py,
+    tool_search.py, tool_visit.py, tool_scholar.py, tool_python.py, tool_file.py,
+    file_tools/, eval_data/,
+    judge/evaluate_deepsearch_official.py, judge/prompt.py
+
+Our additions for this paper (the step-wise experience-injection evaluation):
+
+    react_agent_step_wise.py, prompt_step_wise.py
+
+The URL-blocking logic in tool_search.py / tool_visit.py is adapted from
+MiroThinker. The agent depends on the Qwen-Agent library (qwen-agent on PyPI).

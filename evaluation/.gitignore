@@ -1,0 +1,16 @@
+# env / secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# runtime artifacts & eval outputs
+log/
+logs/
+workspace/
+*.log
+output*/
+*_sglang/

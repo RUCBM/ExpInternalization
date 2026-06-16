@@ -13,5 +13,6 @@ The pipeline turns an agent's interaction trajectories into a compact, **princip
 ## Components
 
 - **[`experience_extraction/`](experience_extraction/)** — agent rollout + experience summarization: a local model solves tasks (web reasoning / math), and the scored trajectories are distilled into a reusable experience pool. See its [README](experience_extraction/README.md) for setup and usage.
+- **[`evaluation/`](evaluation/)** — web-agent evaluation on WebWalkerQA, GAIA-Text-103, and BrowseComp-ZH, with and without inference-time experience injection. Built on the Tongyi DeepResearch inference framework. See its [README](evaluation/README.md).
 
-More components (experience injection, context-distillation training, and evaluation) will be released here.
+More components (experience injection and context-distillation training) will be released here.
